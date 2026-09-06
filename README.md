@@ -1,10 +1,10 @@
 # yet-another-wallpaper-bank
 
-### Just a random collection of wallpapers that I've used before.
+## Just a random collection of wallpapers that I've used before.
 
 *"Hey, but where did you find these? there's a LOT"*
 
-Well, I've been collecting the wallpaper on Pinterest and Wallheaven. Some of those I've used a image upscaller to get more details in the final image :P 
+Well, I've been collecting the wallpaper on Pinterest and Wallheaven. Some of those I've used an image upscaller to get more details in the final image :P 
 
 ---
 
