@@ -1,13 +1,15 @@
 # yet-another-wallpaper-bank
 
-## Just a random collection of wallpapers that I've used before.
+### *Just a random collection of wallpapers that I've used before.*
 
-*"Hey, but where did you find these? there's a LOT"*
+<br>
+
+"Hey, but where did you find these? there's a LOT"
 
 Well, I've been collecting the wallpaper on Pinterest and Wallheaven. Some of those I've used an image upscaller to get more details in the final image :P 
-
-<hr style="border: 0; border-top: 1px solid #30363d; margin: 20px 0;"
 <br>
+
+---
 
 ## Categories & Previews
 
@@ -47,7 +49,6 @@ Well, I've been collecting the wallpaper on Pinterest and Wallheaven. Some of th
   </tr>
 </table>
 
-<hr style="border: 0; border-top: 1px solid #30363d; margin: 20px 0;"
-<br>
+---
 
 *Ps: If you want to do a deep search into the wallpapers, go to each category and choose what you've liked :)*
