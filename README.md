@@ -23,8 +23,8 @@ Well, I've been collecting the wallpaper on Pinterest and Wallheaven. Some of th
 
 <table>
   <tr>
-    <td><img src="./wallpapers/arts/arts_wallpaper_001.png" alt="Arts 1" width="380"></td>
-    <td><img src="./wallpapers/arts/arts_wallpaper_002.png" alt="Arts 2" width="380"></td>
+    <td><img src="./wallpapers/arts/arts_wallpaper_01.png" alt="Arts 1" width="380"></td>
+    <td><img src="./wallpapers/arts/arts_wallpaper_02.png" alt="Arts 2" width="380"></td>
   </tr>
 </table>
 
@@ -32,8 +32,8 @@ Well, I've been collecting the wallpaper on Pinterest and Wallheaven. Some of th
 
 <table>
   <tr>
-    <td><img src="./wallpapers/games/games_wallpaper_001.png" alt="Games 1" width="380"></td>
-    <td><img src="./wallpapers/games/games_wallpaper_002.png" alt="Games 2" width="380"></td>
+    <td><img src="./wallpapers/games/games_wallpaper_01.png" alt="Games 1" width="380"></td>
+    <td><img src="./wallpapers/games/games_wallpaper_02.png" alt="Games 2" width="380"></td>
   </tr>
 </table>
 
@@ -41,8 +41,8 @@ Well, I've been collecting the wallpaper on Pinterest and Wallheaven. Some of th
 
 <table>
   <tr>
-    <td><img src="./wallpapers/irl/irl_wallpaper_001.jpg" alt="IRL 1" width="380"></td>
-    <td><img src="./wallpapers/irl/irl_wallpaper_002.jpg" alt="IRL 2" width="380"></td>
+    <td><img src="./wallpapers/irl/irl_wallpaper_01.jpg" alt="IRL 1" width="380"></td>
+    <td><img src="./wallpapers/irl/irl_wallpaper_02.jpg" alt="IRL 2" width="380"></td>
   </tr>
 </table>
 
